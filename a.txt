@@ -1,0 +1,2 @@
+Product{productName='Gurke', price=2.0, productCategory='Gemüse'}
+Product{productName='Tomaten', price=3.5, productCategory='Gemüse'}
